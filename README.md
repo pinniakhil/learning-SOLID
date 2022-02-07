@@ -1,1 +1,1 @@
-# learning-SOLID
+# learning-SOLID principes
